@@ -95,4 +95,5 @@ int main()
         cout << "\t\t";
         i++;
     }
+    return 0;
 }
